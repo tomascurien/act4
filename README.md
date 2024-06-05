@@ -13,13 +13,15 @@ En cuanto a los requisitos de la misma, contamos con 3 clases principales (Socio
 
 ## Diagramas y diseños
 
-Diagramas de Actividades:
-https://drive.google.com/file/d/1Q5pgXOs71D36aSr-L-rADOScCIqzp0sO/view
 
-Diagramas de Secuencia: 
-https://drive.google.com/file/d/1lH5epl3AP2Li1_J3yHKMl4IGl2gspqX4/view?usp=sharing
+1. Tarjetas CRC - sobre las clases identificadas en diagramas de Clase:
+https://docs.google.com/spreadsheets/d/1_SvK9seg4zasf2GrJqSLAQHd1Pc5awjb5MXDngV2dhQ/edit?usp=sharing
 
-Tarjetas CRC - sobre las clases identificadas en diagramas de Clase
+2. Diagramas de Caso de Uso:
+https://drive.google.com/file/d/1BfsGSd2ejmo_20dJcLSBKG6eRkbjEJwN/view?usp=sharing
+
+3. Escenarios de Caso de Uso:
+https://docs.google.com/spreadsheets/d/1L_38gxpGln6rna0x9WUHJRzYfIoQHOxCPKmkDgBggpw/edit?usp=sharing
 
 
 
