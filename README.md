@@ -14,13 +14,13 @@ En cuanto a los requisitos de la misma, contamos con 3 clases principales (Socio
 ## Diagramas y diseños
 
 
-1. [Tarjetas CRC - sobre las clases identificadas en diagramas de Clase](documentos/Tarjetas_CRC.xlsx)
+1. [Tarjetas CRC - sobre las clases identificadas en diagramas de Clase](act4/Tarjetas CRC.xlsx)
 
 
-2. [Diagramas de Caso de Uso](documentos/DiagramasCasodeUso.drawio)
+2. [Diagramas de Caso de Uso](act4/DiagramasCasodeUso.drawio)
 
 
-3. [Escenarios de Caso de Uso](Escenarios_Caso_de_uso.xlsx)
+3. [Escenarios de Caso de Uso](act4/Escenarios_Caso_de_uso.xlsx)
 
 
 
