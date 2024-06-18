@@ -28,7 +28,7 @@ En cuanto a los requisitos de la misma, contamos con 3 clases principales (Socio
 
 # Act 5
 
-1. [Diagrama de Clases](https://drive.google.com/file/d/1S2wK_9uQSPDAi1kkQA1nZxN6fiSkRSB8/view?usp=sharing)
+1. [Diagrama de Clases](https://drive.google.com/file/d/1SPMM17YZh6iosqUXM_0TOXBqM5mtPCMz/view?usp=sharing)
   Los métodos de las clases están actualizados a partir de las Tarjetas CRC de cada clase
   
 2. [Matriz CLAE](https://docs.google.com/spreadsheets/d/1683QtYWfxxq2n79ozuaQz8v55NtUB4GREpkFiXUIh44/edit?usp=sharing)  
