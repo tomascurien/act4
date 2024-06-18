@@ -12,12 +12,12 @@ La aplicación es apuntada a emular la funcionalidad de una biblioteca real, cue
 En cuanto a los requisitos de la misma, contamos con 3 clases principales (Socio, Libro, Prestamos) y en la búsqueda de la gestion del sistema añadimos otras nuevas clases. 
 
 ## Diagramas y diseños
-Act 3 
+# Act 3 
 [Diagramas de actividades](https://drive.google.com/file/d/1Q5pgXOs71D36aSr-L-rADOScCIqzp0sO/view?usp=sharing)
 
 [Diagramas de secuencia](https://drive.google.com/file/d/1lH5epl3AP2Li1_J3yHKMl4IGl2gspqX4/view?usp=sharing)
 
-Act 4
+# Act 4
 [Tarjetas CRC - sobre las clases identificadas en diagramas de Clase](https://docs.google.com/spreadsheets/d/1_SvK9seg4zasf2GrJqSLAQHd1Pc5awjb5MXDngV2dhQ/edit?pli=1&gid=0#gid=0)
 
 
@@ -26,7 +26,7 @@ Act 4
 
 [Escenarios de Caso de Uso](https://docs.google.com/spreadsheets/d/1L_38gxpGln6rna0x9WUHJRzYfIoQHOxCPKmkDgBggpw/edit?gid=0#gid=0)
 
-Act 5
+# Act 5
 1. [Diagrama de Clases](https://drive.google.com/file/d/1S2wK_9uQSPDAi1kkQA1nZxN6fiSkRSB8/view?usp=sharing)
   
 2. [Matriz CLAE](https://docs.google.com/spreadsheets/d/1683QtYWfxxq2n79ozuaQz8v55NtUB4GREpkFiXUIh44/edit?usp=sharing)  
