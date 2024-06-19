@@ -1,8 +1,12 @@
 # Libreria - Diseño del Sistema
-Alumno: Curien Tomás 
+Alumno: Curien Tomás
+
 Materia: Diseño orientado a Objetos
+
 Carrera: Tecnicatura en Programacion
+
 Profesor: Matias Velasquez
+
 Año: 2024
 
 ## Introducción
