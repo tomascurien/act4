@@ -12,7 +12,15 @@ Año: 2024
 ## Introducción
 
 La aplicación es apuntada a emular la funcionalidad de una biblioteca real, cuenta con registro de socios, libros, prestamos y multas, y las funciones correspondientes al sistema de una biblioteca (Añadir libros, anotar socios, dar y recibir prestamos, cobrar multas).
-En cuanto a los requisitos de la misma, contamos con 3 clases principales (Socio, Libro, Prestamos) y en la búsqueda de la gestion del sistema añadimos otras nuevas clases. 
+En cuanto a los requisitos de la misma, contamos con 3 clases principales (Socio, Libro, Prestamos) y en la búsqueda de la gestion del sistema añadimos otras nuevas clases.
+
+Requisitos iniciales del sistema:
+a)	El primer requisito es que el sistema permita a la bibliotecaria buscar el libro que necesite en el momento usando cualquiera de sus propiedades (título, autor, etc)
+b)	El segundo requisito es la creación de una credencial para los socios donde se cumplan varias funciones: 
+-que el usuario pueda ver la fecha de vencimiento
+-optimizar el sistema de préstamos y devoluciones de los libros
+c)	El tercer requisito es un sistema de préstamos donde los socios no deudores puedan acceder al libro que quieran, siempre y cuando esté disponible, y que el sistema marque si la devolución fue en tiempo o no
+
 
 ## Diagramas y diseños
 [Diagrama de Clases](https://drive.google.com/file/d/1SPMM17YZh6iosqUXM_0TOXBqM5mtPCMz/view?usp=sharing)
