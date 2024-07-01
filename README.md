@@ -26,7 +26,7 @@ c)	El tercer requisito es un sistema de préstamos donde los socios no deudores 
 
 
 ## Diagramas y diseños
-[Diagrama de Clases](https://drive.google.com/file/d/1SPMM17YZh6iosqUXM_0TOXBqM5mtPCMz/view?usp=sharing)
+[Diagrama de Clases](https://drive.google.com/file/d/1iVjmEhn0d6PlC4qKrb5_6LArqtZPhzVd/view?usp=sharing)
   Los métodos de las clases están actualizados a partir de las Tarjetas CRC de cada clase
 
 [Matriz CLAE](https://docs.google.com/spreadsheets/d/1683QtYWfxxq2n79ozuaQz8v55NtUB4GREpkFiXUIh44/edit?usp=sharing)  
