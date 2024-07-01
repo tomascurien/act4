@@ -46,4 +46,4 @@ c)	El tercer requisito es un sistema de préstamos donde los socios no deudores 
 ## Resolución teórica POO
 
 [Documento de la resolucion de las 5 preguntas teoricas](https://docs.google.com/document/d/1hBYhs8Gl-TLmmmY7Tw6vspgjUo4M1qy4bYXC4X5Thj8/edit?usp=sharing)
-act4 - doo
+
